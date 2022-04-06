@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="widget_week">
+        <attr name="fontColor" format="color"/>
+
+        <attr name="activeBG" format="integer"/>
+        <attr name="bold" format="boolean"/>
+        <attr name="backgroundColorS" format="color"/>
+        <attr name="padding" format="dimension"/>
+        <attr name="size" format="dimension"/>
+        <attr name="margin" format="dimension"/>
+    </declare-styleable>
+</resources>
