@@ -31,16 +31,16 @@ and dapedency
 
 ```xml
 <fun5i.module.week.WidgetWeek
-            app:backgroundColorS="#734545"
-            app:size="40dp"
-            app:margin="2dp"
-            app:fontColor="#F4F4F4"
-            app:bold="false"
+    app:backgroundColorS="#734545"
+    app:size="40dp"
+    app:margin="2dp"
+    app:fontColor="#F4F4F4"
+    app:bold="false"
 
-            android:id="@+id/ww"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="20dp"/>
+    android:id="@+id/ww"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp"/>
 ```
 ### Step 3. Java MainActivity
 
